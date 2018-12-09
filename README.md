@@ -26,6 +26,15 @@ View the game:https://restimirandanu.github.io/crystalgame/
 Screen shots
 
 
+![crystal game1](https://user-images.githubusercontent.com/43328718/49694490-b48e9a00-fb50-11e8-96ff-a06925981e94.PNG)
+
+![crystal game2](https://user-images.githubusercontent.com/43328718/49694492-bce6d500-fb50-11e8-9e8a-378fec2435c2.PNG)
+
+
+
+
+Author
+Resti Miranda - HTML/CSS
 
 
 
