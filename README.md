@@ -1,4 +1,7 @@
-# crystalgame
+# crystalgame 
+
+Crystal Game
+Week 4 for NU Coding Bootcamp - using JQuery!
 
 Description
 The random number shown at the start of the game between 19 - 120. Each crystal should have a random hidden value between 1 - 12.
@@ -31,6 +34,10 @@ Screen shots
 ![crystal game2](https://user-images.githubusercontent.com/43328718/49694492-bce6d500-fb50-11e8-9e8a-378fec2435c2.PNG)
 
 
+
+
+Technology
+JQuery
 
 
 Author
