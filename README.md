@@ -36,8 +36,7 @@ Screen shots
 
 
 
-Technology
-JQuery
+Technology used is JQuery
 
 
 Author
